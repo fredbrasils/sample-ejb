@@ -17,7 +17,7 @@ public class StartCalc {
 	        InitialContext context = new InitialContext(props);
  
 	        String appName = "";        	 
-	        String moduleName = "firstEJBProject";
+	        String moduleName = "sampleEJBProject";
 	        String distinctName = "";        	 
 	        String beanName = Calculator.class.getSimpleName();        	 
 	        String interfaceName = CalculatorRemote.class.getName();

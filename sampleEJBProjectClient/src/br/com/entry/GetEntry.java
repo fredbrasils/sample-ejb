@@ -1,4 +1,4 @@
-package br.com.getentry;
+package br.com.entry;
 
 import java.util.Properties;
 
