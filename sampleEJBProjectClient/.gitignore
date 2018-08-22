@@ -1,0 +1,14 @@
+/META-INF/
+/br/
+/build/*
+*/build/*
+/build/
+*/build/
+*/classes/
+/classes/
+*/classes/*
+/classes/*
+*/bin/
+/bin/*
+/bin/
+*/bin/*
